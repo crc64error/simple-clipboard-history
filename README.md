@@ -108,14 +108,14 @@ To mitigate these risks, Simple Clipboard History includes:
    - Or copy from `~/Library/Developer/Xcode/DerivedData/.../Build/Products/Debug/Simple Clipboard History.app`
    - Move to `/Applications`
 
-### Option 2: Download Pre-built Binary
+<!-- ### Option 2: Download Pre-built Binary
 
 Pre-built binaries are available in the [Releases](https://github.com/yourusername/simple-clipboard-history/releases) section.
 
 1. Download the latest `.dmg` or `.zip`
 2. Move `Simple Clipboard History.app` to `/Applications`
 3. Right-click and select "Open" (first time only, to bypass Gatekeeper)
-4. Grant Accessibility permissions when prompted
+4. Grant Accessibility permissions when prompted -->
 
 ### Homebrew
 
